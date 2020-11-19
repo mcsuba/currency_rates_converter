@@ -1,6 +1,6 @@
 <h1> Currency Rates & Converter</h1>
 Facilitates to  
-<l1>Find live currency and foreign exchange rates</li>
+<li>Find live currency and foreign exchange rates</li>
 <li>Calculator for converting one currency to another using the latest live rates</li>
 
 In the project directory, you can run:
