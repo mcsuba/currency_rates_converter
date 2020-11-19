@@ -2,7 +2,7 @@
 Facilitates to  
 <li>Find live currency and foreign exchange rates</li>
 <li>Calculator for converting one currency to another using the latest live rates</li>
-
+<br />
 In the project directory, you can run:
 
 ### `npm start`
